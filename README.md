@@ -13,4 +13,7 @@ Since 2008 That Includes:-
 > 2. Preferrable Movie Duration of People In Different countries.
 > 3. Countries for which <font color="red">**NETFLIX**</font> makes **most** of the content.
 > .... and other very interesting insights.
-  
+
+![here](https://cdn.memegenerator.es/imagenes/memes/full/3/25/3254012.jpg)
+
+# 2. Custom Document Embeddings Techniques.
