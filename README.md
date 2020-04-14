@@ -4,6 +4,8 @@ This Repo Contains all the Projects I did in My Last Semester
 # 1. NETFLIX CONSUMPTION ANALYSIS 
 present [HERE](https://www.kaggle.com/sahib12/netflix-analysis)
 
+![here](https://tenor.com/OtZK.gif)
+
 ![netflix](https://internoise2015.com/wp-content/uploads/2018/08/Netflix.png)
 This Notebook contains various Insights and Interesting Patterns of Binge watching that people have adopted
 Since 2008 That Includes:-
