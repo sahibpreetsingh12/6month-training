@@ -5,7 +5,7 @@ This Repo Contains all the Projects I did in My Last Semester
 present [HERE](https://www.kaggle.com/sahib12/netflix-analysis)
 
 
-![here](netflix.gif)
+![here](netflix1.gif)
 
 This Notebook contains various Insights and Interesting Patterns of Binge watching that people have adopted
 Since 2008 That Includes:-
