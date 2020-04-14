@@ -1,11 +1,10 @@
-# 6month-training
-This Repo Contains all the Projects I did in My Last Semester
+# 6-month-Training
+This Repo Contains all the Projects 4 I did in My Last Semester.
 
 # 1. NETFLIX CONSUMPTION ANALYSIS 
 present [HERE](https://www.kaggle.com/sahib12/netflix-analysis)
 
-
-<div align="center">![here](netflix1.gif)</div>
+![here](netflix1.gif)
 
 This Notebook contains various Insights and Interesting Patterns of Binge watching that people have adopted
 Since 2008 That Includes:-
