@@ -2,7 +2,7 @@
 This Repo Contains all the Projects 4 I did in My Last Semester.
 
 # 1. NETFLIX CONSUMPTION ANALYSIS 
-present [HERE](https://www.kaggle.com/sahib12/netflix-analysis)
+Implemented  [HERE](https://www.kaggle.com/sahib12/netflix-analysis)
 
 ![here](PROJECT-1/netflix.gif)
 
@@ -24,6 +24,9 @@ Implemented [here](https://www.kaggle.com/sahib12/document-embedding-techniques)
 
 In this project I Tried to Use **TFIDF**(i.e Term Frequency and Inverse Document Frequency) and
 **Word2vec** from **Google** I didn't Trained **Word2vec** on my Training Data(Just wanted to See the Results).
+
+### OK What is TFIDF?
+![here](PROJECT-2/tfidf.png)
 
 These Techniques were :-
 
