@@ -26,12 +26,12 @@ In this project I Tried to Use **TFIDF**(i.e Term Frequency and Inverse Document
 **Word2vec** from **Google** I didn't Trained **Word2vec** on my Training Data(Just wanted to See the Results).
 
 ### OK What is TFIDF?
-To read about **TFIDF** refer ![here](https://towardsdatascience.com/natural-language-processing-feature-engineering-using-tf-idf-e8b9d00e7e76)
+To read about **TFIDF** refer [here](https://towardsdatascience.com/natural-language-processing-feature-engineering-using-tf-idf-e8b9d00e7e76)
 ![here](PROJECT-2/tfidf.png)
 
 ## And What is Word2Vec?
 Please Read This Blog this will help you to Understand word2vec
-![here](https://www.freecodecamp.org/news/how-to-get-started-with-word2vec-and-then-how-to-make-it-work-d0a2fca9dad3/)
+[here](https://www.freecodecamp.org/news/how-to-get-started-with-word2vec-and-then-how-to-make-it-work-d0a2fca9dad3/)
 
 These Techniques were :-
 
