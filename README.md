@@ -33,6 +33,8 @@ To read about **TFIDF** refer [here](https://towardsdatascience.com/natural-lang
 Please Read This Blog this will help you to Understand word2vec
 [here](https://www.freecodecamp.org/news/how-to-get-started-with-word2vec-and-then-how-to-make-it-work-d0a2fca9dad3/)
 
+for more detailed explaination check [this](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+
 These Techniques were :-
 
 ## Technique1 :-
