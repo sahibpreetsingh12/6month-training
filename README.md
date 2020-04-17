@@ -66,12 +66,13 @@ The author explicitly uses the word **“ABLAZE”** but means it metaphorically
 And For **Data Visualisation** and For **Beginners** I made Notebook [Here](PROJECT-3/nlp-starter-for-beginners.ipynb)
 
 and This was My Improved Attempt Below
+#### Implemented [here](https://www.kaggle.com/sahib12/nlp-starter-for-beginners)
 
-**Implemented [Here](PROJECT-3/nbsvm-for-twitter-comment-classification.ipynb)**
+**To Download code is [Here](PROJECT-3/nbsvm-for-twitter-comment-classification.ipynb)**
 
-Data available [here](PROJECT-3/nlp-getting-started)  
+#### Data available [here](PROJECT-3/nlp-getting-started)  
 
-**Future Task**
+#### **Future Task**
 > Wantto Improve this approach and Make It **Multilingual Text Classification** for **Tweets**.
 
 ![here](https://cdn.memegenerator.es/imagenes/memes/full/3/25/3254012.jpg)
