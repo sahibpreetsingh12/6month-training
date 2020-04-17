@@ -49,11 +49,13 @@ And finally summed all word vectors to get document embedding for that document.
 ### Surprisingly These Techniques Got me in Top 30 % of this [Competition](https://www.kaggle.com/c/nlp-getting-started)
 
 
+
+
 # 3. Disaster Or Not. Tweet Classification.
 #### Task :-
 
 > Twitter has become an important communication channel in times of emergency.
-> The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, > more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
+> The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this,  more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
 
 **But, it’s not always clear whether a person’s words are actually announcing a disaster. Take this example:**
 
@@ -61,7 +63,13 @@ And finally summed all word vectors to get document embedding for that document.
 
 The author explicitly uses the word **“ABLAZE”** but means it metaphorically. This is clear to a human right away, especially with the visual aid. But it’s less clear to a machine.
 
-**Implemented [Here](PROJECT-3/nbsvm-for-twitter-comment-classification.ipynb)
+And For **Data Visualisation** and For **Beginners** I made Notebook [Here](PROJECT-3/nlp-starter-for-beginners.ipynb)
+
+and This was My Improved Attempt Below
+
+**Implemented [Here](PROJECT-3/nbsvm-for-twitter-comment-classification.ipynb)**
+
+Data available [here](PROJECT-3/nlp-getting-started)  
 
 **Future Task**
 > Wantto Improve this approach and Make It **Multilingual Text Classification** for **Tweets**.
