@@ -14,21 +14,8 @@ Since 2008 That Includes:-
 
 .... and other very interesting insights.
 
-# 2. Disaster Or Not. Tweet Classification.
-#### Task :-
 
-> Twitter has become an important communication channel in times of emergency.
-> The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, > more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
-
-**But, it’s not always clear whether a person’s words are actually announcing a disaster. Take this example:**
-
-![here](https://pbs.twimg.com/media/CLtaYrmWEAEdBt0?format=jpg&name=medium)
-
-The author explicitly uses the word “ABLAZE” but means it metaphorically. This is clear to a human right away, especially with the visual aid. But it’s less clear to a machine.
-
-
-
-# 3. Custom Document Embeddings Techniques.
+# 2. Custom Document Embeddings Techniques.
 
 So this project was personally my favorite instead of using **DOC2VEC** from **GENSIM** One day I thought of Creating my own 
 **DOCUMENT EMBEDDINGS**.
@@ -62,6 +49,21 @@ And finally summed all word vectors to get document embedding for that document.
 ### Surprisingly These Techniques Got me in Top 30 % of this [Competition](https://www.kaggle.com/c/nlp-getting-started)
 
 
+# 3. Disaster Or Not. Tweet Classification.
+#### Task :-
 
+> Twitter has become an important communication channel in times of emergency.
+> The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, > more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
+
+**But, it’s not always clear whether a person’s words are actually announcing a disaster. Take this example:**
+
+![here](PROJECT-3/sunrise.jpeg)
+
+The author explicitly uses the word **“ABLAZE”** but means it metaphorically. This is clear to a human right away, especially with the visual aid. But it’s less clear to a machine.
+
+**Implemented [Here](PROJECT-3/nbsvm-for-twitter-comment-classification.ipynb)
+
+**Future Task**
+> Wantto Improve this approach and Make It **Multilingual Text Classification** for **Tweets**.
 
 ![here](https://cdn.memegenerator.es/imagenes/memes/full/3/25/3254012.jpg)
