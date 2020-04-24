@@ -75,4 +75,13 @@ and This was My Improved Attempt Below
 #### **Future Task**
 > Wantto Improve this approach and Make It **Multilingual Text Classification** for **Tweets**.
 
+
+# 4.RSNA Intracranial Hemorrhage Detection
+![k](https://image.slidesharecdn.com/intracranialhemorrhage-131120104822-phpapp02/95/intracranial-hemorrhage-shruthi-s-jayaraj-calicut-medical-college-1-638.jpg?cb=1386369748)
+
+**Intracranial hemorrhage**, bleeding that occurs inside the cranium, is a serious health problem requiring rapid and often intensive medical treatment. For example, intracranial hemorrhages account for approximately 10% of strokes in the U.S., where stroke is the fifth-leading cause of death. Identifying the location and type of any hemorrhage present is a critical step in treating the patient.
+
+Diagnosis requires an urgent procedure. When a patient shows acute neurological symptoms such as severe headache or loss of consciousness, highly trained specialists review medical images of the patient’s cranium to look for the presence, location and type of hemorrhage. The process is complicated and often time consuming.
+So Here I have build an algorithm to detect acute intracranial hemorrhage and its subtypes.
+
 ![here](https://cdn.memegenerator.es/imagenes/memes/full/3/25/3254012.jpg)
