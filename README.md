@@ -76,12 +76,11 @@ and This was My Improved Attempt Below
 > Wantto Improve this approach and Make It **Multilingual Text Classification** for **Tweets**.
 
 
-# 4.RSNA Intracranial Hemorrhage Detection
-![k](https://image.slidesharecdn.com/intracranialhemorrhage-131120104822-phpapp02/95/intracranial-hemorrhage-shruthi-s-jayaraj-calicut-medical-college-1-638.jpg?cb=1386369748)
+# 4.NEWS RECOMMEDER SYSTEM
+![k](https://miro.medium.com/max/1200/1*cEaeMuTvINqIgyYQMSJWUA.jpeg)
 
-**Intracranial hemorrhage**, bleeding that occurs inside the cranium, is a serious health problem requiring rapid and often intensive medical treatment. For example, intracranial hemorrhages account for approximately 10% of strokes in the U.S., where stroke is the fifth-leading cause of death. Identifying the location and type of any hemorrhage present is a critical step in treating the patient.
-
-Diagnosis requires an urgent procedure. When a patient shows acute neurological symptoms such as severe headache or loss of consciousness, highly trained specialists review medical images of the patient’s cranium to look for the presence, location and type of hemorrhage. The process is complicated and often time consuming.
-So Here I have build an algorithm to detect acute intracranial hemorrhage and its subtypes.
+**Recommender system**, these systems have een used by various companies like NETFLIX and AMAZON to recommend products to their customers similar to that we are building a news system.
+Where we dont have any user data we only have news articles data.
+For generating user data we have used various **statistical distributions**
 
 ![here](https://cdn.memegenerator.es/imagenes/memes/full/3/25/3254012.jpg)
