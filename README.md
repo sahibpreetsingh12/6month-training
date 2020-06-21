@@ -91,7 +91,9 @@ Text - classification system or even other #nlp tasks?
 2. What Pixels are most important for your Computer Vision Task?
 3. What columns( in case of Tabular Data) are most Important and How Much they contribute in your Classification or Regression Problem?
 
-**[This  is my work](https://www.kaggle.com/sahib12/explainable-ai)**
+##   This was mini project so there is link below
+
+#**[This  is my work](https://www.kaggle.com/sahib12/explainable-ai)**
 
 
 ![here](https://cdn.memegenerator.es/imagenes/memes/full/3/25/3254012.jpg)
