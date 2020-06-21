@@ -83,4 +83,13 @@ and This was My Improved Attempt Below
 Where we dont have any user data we only have news articles data.
 For generating user data we have used various **statistical distributions**
 
+# 5. Explainable AI
+
+Have you ever thought
+1. What feature (words) were most important for your
+Text - classification system or even other #nlp tasks?
+2. What Pixels are most important for your Computer Vision Task?
+3. What columns( in case of Tabular Data) are most Important and How Much they contribute in your Classification or Regression Problem?
+
+**[This  is my work](https://www.kaggle.com/sahib12/explainable-ai)**
 ![here](https://cdn.memegenerator.es/imagenes/memes/full/3/25/3254012.jpg)
