@@ -93,7 +93,7 @@ Text - classification system or even other #nlp tasks?
 
 ##   This was mini project so there is link below
 
-#**[This  is my work](https://www.kaggle.com/sahib12/explainable-ai)**
+**# [This  is my work](https://www.kaggle.com/sahib12/explainable-ai)**
 
 
 ![here](https://cdn.memegenerator.es/imagenes/memes/full/3/25/3254012.jpg)
